@@ -1,7 +1,7 @@
 # AI_Text_to_Voice
 Summary
 
-Deepgram Text Reader is a simple Python application that reads text that has been copied to the clipboard using Deepgram's speech synthesis API. It allows users to listen to their copied text in real-time by utilizing WebSockets and audio streaming.
+AI Text Reader is a simple Python application that reads text that has been copied to the clipboard using AI's speech synthesis API. It allows users to listen to their copied text in real-time by utilizing WebSockets and audio streaming.
 
 Building AI course project
 
@@ -9,7 +9,7 @@ Features
 
 Automatically detects and reads copied text.
 
-Utilizes Deepgram's speech synthesis for realistic text-to-speech conversion.
+Utilizes AI's speech synthesis for realistic text-to-speech conversion.
 
 Supports real-time audio playback.
 
@@ -19,16 +19,16 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/deepgram-text-reader.git
-cd deepgram-text-reader
+git clone https://github.com/oanceamax/AI_Text_to_Voice.git
+cd AI-text-reader
 
 Install dependencies:
 
 pip install -r requirements.txt
 
-Set up your Deepgram API key:
+Set up your AI API key:
 
-export DEEPGRAM_API_KEY=your_api_key_here
+export AI_API_KEY=your_api_key_here
 
 Usage
 
@@ -42,7 +42,7 @@ Dependencies
 
 Python 3.x
 
-Deepgram API
+AI API
 
 pyaudio
 
@@ -54,7 +54,7 @@ This project is for viewing purposes only. Unauthorized use, reproduction, or di
 
 Acknowledgments
 
-Deepgram for providing speech synthesis capabilities.
+AI for providing speech synthesis capabilities.
 
-Inspired by real-time AI-powered text-to-speech applications.
+
 
