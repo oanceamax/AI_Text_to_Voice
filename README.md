@@ -1,5 +1,5 @@
 # AI_Text_to_Voice
-Summary
+## Summary
 
 AI Text Reader is a simple Python application that reads text that has been copied to the clipboard using AI's speech synthesis API. It allows users to listen to their copied text in real-time by utilizing WebSockets and audio streaming.
 
